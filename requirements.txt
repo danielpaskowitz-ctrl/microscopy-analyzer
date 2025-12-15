@@ -1,22 +1,6 @@
-# AI-Assisted Microscopy Image Analyzer
-# Core Dependencies
-
-# Image Processing
-opencv-python>=4.8.0
+streamlit>=1.28.0
+opencv-python-headless==4.8.1.78
 numpy>=1.24.0
 Pillow>=10.0.0
 
-# Machine Learning (optional - for classification)
-tensorflow>=2.13.0
-
-# Visualization
-matplotlib>=3.7.0
-
-# Note: tkinter is included with Python on Windows
-# On Linux, install: sudo apt-get install python3-tk
-
-# Development (optional)
-# pytest>=7.0.0
-# black>=23.0.0
-# flake8>=6.0.0
 
